@@ -26,18 +26,30 @@ Ce processus permet de déplacer les éléments sélectionnés (fichiers et/ou d
 
 Ce processus permet de créer un fichier texte dans la fenêtre de Finder en cours.
 
+## Éjecter tout
+
+Éjecte tous les disques durs, clés USB connectés au mac.
+
+
+## Fusionner les fichiers PDF triés
+
+Permet de créer un unique fichier PDF à partir d'autres fichiers PDFs dont le nom est une séquence.
+
 
 ## Afficher ou Cacher les éléments du Bureau
 
 Ce processus permet de cacher les icônes sur votre bureau (on a l'impression que le bureau est vide). De la même manière, il les affiche à nouveau.
 
+
 ## Ouvrir dans Terminal
 
 Ce processus permet d'ouvrir un dossier dans le Terminal.
 
+
 ## Copier le chemin Unix dans le Presse-papier
 
 Ce processus permet de mettre le chemin Unix de l'élément sélectionné dans le presse-papier.
+
 
 ## Créer un diaporama.mov
 
@@ -45,30 +57,31 @@ Ce processus permet de créer une vidéo diaporama des photos sélectionnées.
 
 *Le diaporama sera au format 640x480 et seules les images en mode paysages sont gérées.**
 
+
 ## Photos en vignettes
 
 Ce processus permet de transformer des photos en vignettes de 128 pixels de hauteur ou largeur (selon que la photo est en mode portrait ou paysage).
+
 
 ## Redimensionner ...
 
 Ce processus permet de redimensionner la taille des photos (en pixels ou en pourcentage).
 
 
----
-
 ## Afficher l'encodage
 
 Ce processus ouvre une boîte de dialogue affichant l'encodage du fichier sélectionné.
+
+
+## Connecter serveur SSH
+
+Ce processus permet de se connecter en ssh sur un serveur (ici mon mac mini).
 
 
 ## Ouvrir .php dans Safari
 
 Ce processus permet d'ouvrir un fichier .php dans Safari et y être interprété par le serveur apache.
 
-
-## Connecter ssh macmini
-
-Ce processus permet de se connecter en ssh sur un serveur (ici mon mac mini).
 
 ## Lancer Skype
 
