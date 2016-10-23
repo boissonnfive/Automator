@@ -1,10 +1,10 @@
-## Déplacer vers ...
+## Éjecter tout
 
-Déplace les éléments sélectionnés dans le dossier spécifié.
+Éjecte tous les disques durs, clés USB connectés au mac.
 
-1. Sélectionner les éléments à déplacer (fichiers et/ou dossiers)
-2. Clic droit sur la sélection
-3. Choisir "Services" ▶ "Déplacer vers...".
+1. Clic sur l'icône "Finder"
+2. Aller dans le menu "Finder" | "Services" ▶ "Éjecter tout" (dans la section "Général")
 
 
-![Aperçu](Deplacer_vers.workflow/Contents/QuickLook/Preview.png "Preview")
+![Aperçu](Ejecter_tout.workflow/Contents/QuickLook/Thumbnail.png "Preview")
+
