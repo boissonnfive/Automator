@@ -9,6 +9,11 @@ J'espère qu'ils pourront vous être aussi utiles qu'à moi.
 *De plus, les services ne fonctionnent qu'à partir de Mac OS X Snow Leopard (10.6). Cependant, il est possible de créer de simples processus à l'aide des captures d'écran pour ceux qui possèdent une version antérieure.*
 
 
+## Monter un disque NTFS ##
+
+Permet de monter un disque NTFS en écriture (par défaut, les disques NTFS sont montés en lecture seule dans mac OS X).
+Il faut installer ntfs-3G avant.
+
 ## Sélectionne même type
 
 Ce processus permet de sélectionner tous les éléments du même type dans une fenêtre du Finder.
