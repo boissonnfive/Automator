@@ -91,3 +91,8 @@ Ce processus permet d'ouvrir un fichier .php dans Safari et y être interprété
 ## Lancer Skype
 
 Ce processus permet de démarrer Skype en faisant entrer ses identifiants de connexion par un script.
+
+
+## Ajouter un raccourci clavier à un service ##
+
+[Macosxautomation](<http://helposx.apple.com/apdredirects/en/redir8121.html>)
