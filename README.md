@@ -8,91 +8,95 @@ J'espère qu'ils pourront vous être aussi utiles qu'à moi.
 
 *De plus, les services ne fonctionnent qu'à partir de Mac OS X Snow Leopard (10.6). Cependant, il est possible de créer de simples processus à l'aide des captures d'écran pour ceux qui possèdent une version antérieure.*
 
+## Liste des services Automator
 
-## Monter un disque NTFS ##
+### Afficher l'encodage
 
-Permet de monter un disque NTFS en écriture (par défaut, les disques NTFS sont montés en lecture seule dans mac OS X).
-Il faut installer ntfs-3G avant.
+Ce processus ouvre une boîte de dialogue affichant l'encodage du fichier sélectionné.
 
-## Sélectionne même type
-
-Ce processus permet de sélectionner tous les éléments du même type dans une fenêtre du Finder.
-
-## Déplacer vers ...
-
-Déplace les éléments sélectionnés dans le dossier spécifié.
-
-## Déplacer dans un nouveau dossier
-
-Ce processus permet de déplacer les éléments sélectionnés (fichiers et/ou dossiers) dans un dossier nouvellement créé dans le dossier en cours.
-
-
-## Nouveau fichier texte
-
-Ce processus permet de créer un fichier texte dans la fenêtre de Finder en cours.
-
-## Éjecter tout
-
-Éjecte tous les disques durs, clés USB connectés au mac.
-
-
-## Fusionner les fichiers PDF triés
-
-Permet de créer un unique fichier PDF à partir d'autres fichiers PDFs dont le nom est une séquence.
-
-
-## Afficher ou Cacher les éléments du Bureau
+### Afficher ou Cacher les éléments du Bureau
 
 Ce processus permet de cacher les icônes sur votre bureau (on a l'impression que le bureau est vide). De la même manière, il les affiche à nouveau.
 
+### Connecter serveur SSH
 
-## Ouvrir dans Terminal
+Ce processus permet de se connecter en ssh sur un serveur (ici mon mac mini).
 
-Ce processus permet d'ouvrir un dossier dans le Terminal.
-
-
-## Copier le chemin Unix dans le Presse-papier
+### Copier le chemin Unix dans le Presse-papier
 
 Ce processus permet de mettre le chemin Unix de l'élément sélectionné dans le presse-papier.
 
+### Créer icône (.icns)
 
-## Créer un diaporama.mov
+Ce processus permet de créer un fichier icône .icns à partir d'une image .PNG .
+
+### Créer un diaporama.mov
 
 Ce processus permet de créer une vidéo diaporama des photos sélectionnées.
 
 *Le diaporama sera au format 640x480 et seules les images en mode paysages sont gérées.**
 
+### Déplacer dans un nouveau dossier
 
-## Photos en vignettes
+Ce processus permet de déplacer les éléments sélectionnés (fichiers et/ou dossiers) dans un dossier nouvellement créé dans le dossier en cours.
 
-Ce processus permet de transformer des photos en vignettes de 128 pixels de hauteur ou largeur (selon que la photo est en mode portrait ou paysage).
+### Déplacer vers ...
 
+Déplace les éléments sélectionnés dans le dossier spécifié.
 
-## Redimensionner ...
+### Éjecter tout
 
-Ce processus permet de redimensionner la taille des photos (en pixels ou en pourcentage).
+Éjecte tous les disques durs, clés USB connectés au mac.
 
+### Fusionner les fichiers PDF triés
 
-## Afficher l'encodage
+Permet de créer un unique fichier PDF à partir d'autres fichiers PDFs dont le nom est une séquence.
 
-Ce processus ouvre une boîte de dialogue affichant l'encodage du fichier sélectionné.
-
-
-## Connecter serveur SSH
-
-Ce processus permet de se connecter en ssh sur un serveur (ici mon mac mini).
-
-
-## Ouvrir .php dans Safari
-
-Ce processus permet d'ouvrir un fichier .php dans Safari et y être interprété par le serveur apache.
-
-
-## Lancer Skype
+### Lancer Skype
 
 Ce processus permet de démarrer Skype en faisant entrer ses identifiants de connexion par un script.
 
+### Monter un disque NTFS
 
-## Ajouter un raccourci clavier à un service ##
+Permet de monter un disque NTFS en écriture (par défaut, les disques NTFS sont montés en lecture seule dans mac OS X).
+Il faut installer ntfs-3G avant.
 
-[Macosxautomation](<http://helposx.apple.com/apdredirects/en/redir8121.html>)
+### Nouveau fichier texte
+
+Ce processus permet de créer un fichier texte dans la fenêtre de Finder en cours.
+
+### Ouvrir dans Terminal
+
+Ce processus permet d'ouvrir un dossier dans le Terminal.
+
+### Ouvrir .php dans Safari
+
+Ce processus permet d'ouvrir un fichier .php dans Safari et y être interprété par le serveur apache.
+
+### Photos en vignettes
+
+Ce processus permet de transformer des photos en vignettes de 128 pixels de hauteur ou largeur (selon que la photo est en mode portrait ou paysage).
+
+### Redimensionner ...
+
+Ce processus permet de redimensionner la taille des photos (en pixels ou en pourcentage).
+
+### Sélectionne même type
+
+Ce processus permet de sélectionner tous les éléments du même type dans une fenêtre du Finder.
+
+### Word vers PDF
+
+Ce processus permet de Transformer un fichier Word en fichier PDF.
+
+
+
+## Ajouter un raccourci clavier à un service
+
+[Macosxautomation](http://helposx.apple.com/apdredirects/en/redir8121.html)
+
+
+## Installer ces services ##
+
+1. Télécharger les services [ici]()
+2. Installez les services en double cliquant sur le fichier Installe_les_services_automator.command
