@@ -39,5 +39,5 @@ Il faut installer ntfs-3G avant.
 
 ## Installer ces services ##
 
-1. Télécharger les services [ici]()
+1. Télécharger les services [ici](https://github.com/boissonnfive/Automator/archive/v1.0.0.zip)
 2. Installez les services en double cliquant sur le fichier Installe_les_services_automator.command
